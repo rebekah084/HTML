@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Display Page</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+    <h1>Image Example</h1>
+    <p>The image below is displayed using the &lt;img&gt; tag:</p>
+
+    <img src="https://via.placeholder.com/300" alt="Sample Image">
+
+</body>
+</html>
