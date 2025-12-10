@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic HTML Page</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a basic HTML page structure.</p>
+    <h1>New Heading</h1>
+    <p>This is an additional paragraph added to the page.</p>
+    <ol>
+        <li>Movie 1</li>
+        <li>Movie 2</li>
+        <li>Movie 3</li>
+    </ol>
+</body>
+</html>
