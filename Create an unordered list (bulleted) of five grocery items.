@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Basic HTML Page</title>
+    <title>Grocery List</title>
     <meta charset="UTF-8">
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <p>This is a basic HTML page structure.</p>
-    <h1>New Heading</h1>
-    <p>This is an additional paragraph added to the page.</p>
-    <ol>
-        <li>Movie 1</li>
-        <li>Movie 2</li>
-        <li>Movie 3</li>
-    </ol>
+
+    <h1>My Grocery List</h1>
+
+    <ul>
+        <li>Milk</li>
+        <li>Bread</li>
+        <li>Eggs</li>
+        <li>Rice</li>
+        <li>Fruits</li>
+    </ul>
+
 </body>
 </html>
